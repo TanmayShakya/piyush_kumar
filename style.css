@@ -1,0 +1,12 @@
+body{
+    background: lightgrey;
+    font-family: cursive;
+}
+.container,h1{
+font-size: 20px;
+}
+#image{
+    border-radius: 10px;
+    
+}
+
